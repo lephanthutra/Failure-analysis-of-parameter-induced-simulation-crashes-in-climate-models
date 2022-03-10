@@ -1,8 +1,8 @@
 # Failure-analysis-of-parameter-induced-simulation-crashes-in-climate-models
 
-Link to Google Colab: https://colab.research.google.com/drive/197jHOwPBsezfwU5O61WEuP6-fG7V7Abi#scrollTo=5PPN6b8eAWoX
+Link to [source code](https://colab.research.google.com/drive/197jHOwPBsezfwU5O61WEuP6-fG7V7Abi#scrollTo=5PPN6b8eAWoX) in Google Colab.
 
-Data Source: https://archive.ics.uci.edu/ml/datasets/climate+model+simulation+crashes
+[Data Source](https://archive.ics.uci.edu/ml/datasets/climate+model+simulation+crashes)
 
 References:
 
