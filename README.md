@@ -23,6 +23,14 @@ You can visit the [Data Source](https://archive.ics.uci.edu/ml/datasets/climate+
 
 - 2nd Goal: Understand the basic concepts of eigenvector, eigenvalues and Principle Components Analysis and implement in python language.
 
+# Lab 1 - 2:
+
+- Find probability distribution function (PDF): Uniform PDF with F(x) = 1 for 0 <= x <= 1.
+
+- Understand to generate moment and central moment.
+
+Link the [source code](https://colab.research.google.com/drive/1cefqX1UzfSJUPnBzyh2DK6rjYApuvXHr#scrollTo=ICaG9FEfUQLm) in Google Colab.
+
 # References
 
 [1] https://gmd.copernicus.org/preprints/6/585/2013/gmdd-6-585-2013.pdf
