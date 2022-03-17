@@ -23,6 +23,12 @@ You can visit the [Data Source](https://archive.ics.uci.edu/ml/datasets/climate+
 
 - 2nd Goal: Understand the basic concepts of eigenvector, eigenvalues and Principle Components Analysis and implement in python language.
 
+# PCA (Principle Components Analysis)
+
+We use PCA when:
+
+- We want to reduce the number of variables, but are not able to identify 
+
 # Lab 1 - 2:
 
 - Find probability distribution function (PDF): Uniform PDF with F(x) = 1 for 0 <= x <= 1.
